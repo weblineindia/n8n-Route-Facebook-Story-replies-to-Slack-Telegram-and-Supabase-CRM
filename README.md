@@ -55,7 +55,7 @@ This workflow is ideal for:
 
 To run this workflow, you need:
 
-*   **n8n instance** (cloud or self-hosted)
+*   **[n8n account](https://n8n.partnerlinks.io/om1efg2qgvwi)** (cloud or self-hosted)
 *   **Facebook App** with Webhook access
 *   **Supabase project** + API credentials
 *   **Slack workspace** with API permissions
@@ -77,7 +77,7 @@ To run this workflow, you need:
 
 ### Setup Steps
 
-1.  Import the workflow JSON into your n8n instance.
+1.  Import the workflow JSON into your [n8n account](https://n8n.partnerlinks.io/om1efg2qgvwi).
 2.  Configure the **Facebook Webhook** node and verify it with your Facebook App.
 3.  Connect **Supabase** credentials and ensure the replies table includes:
     
